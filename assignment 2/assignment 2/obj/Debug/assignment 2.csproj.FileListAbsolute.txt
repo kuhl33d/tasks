@@ -1,0 +1,10 @@
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 2\assignment 2\bin\Debug\assignment 2.exe.config
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 2\assignment 2\bin\Debug\assignment 2.exe
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 2\assignment 2\bin\Debug\assignment 2.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 2\assignment 2\obj\Debug\assignment 2.csproj.AssemblyReference.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 2\assignment 2\obj\Debug\assignment_2.Properties.Resources.resources
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 2\assignment 2\obj\Debug\assignment 2.csproj.GenerateResource.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 2\assignment 2\obj\Debug\assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 2\assignment 2\obj\Debug\assignment 2.exe
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 2\assignment 2\obj\Debug\assignment 2.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 2\assignment 2\obj\Debug\assignment 2.csproj.SuggestedBindingRedirects.cache
