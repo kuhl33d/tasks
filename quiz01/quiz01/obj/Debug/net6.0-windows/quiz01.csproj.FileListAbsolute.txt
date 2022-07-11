@@ -1,0 +1,17 @@
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\bin\Debug\net6.0-windows\quiz01.exe
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\bin\Debug\net6.0-windows\quiz01.deps.json
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\bin\Debug\net6.0-windows\quiz01.runtimeconfig.json
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\bin\Debug\net6.0-windows\quiz01.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\bin\Debug\net6.0-windows\quiz01.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\quiz01.csproj.AssemblyReference.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\quiz01.csproj.GenerateResource.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\quiz01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\quiz01.AssemblyInfoInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\quiz01.AssemblyInfo.cs
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\quiz01.csproj.CoreCompileInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\quiz01.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\refint\quiz01.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\quiz01.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\quiz01.genruntimeconfig.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\ref\quiz01.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\quiz\quiz01\quiz01\obj\Debug\net6.0-windows\quiz01.mosqituo.resources
