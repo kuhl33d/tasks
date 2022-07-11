@@ -1,0 +1,17 @@
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\bin\Debug\net6.0-windows\assignment 5.exe
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\bin\Debug\net6.0-windows\assignment 5.deps.json
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\bin\Debug\net6.0-windows\assignment 5.runtimeconfig.json
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\bin\Debug\net6.0-windows\assignment 5.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\bin\Debug\net6.0-windows\assignment 5.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\assignment 5.csproj.AssemblyReference.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\assignment_5.Form1.resources
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\assignment 5.csproj.GenerateResource.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\assignment 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\assignment 5.AssemblyInfoInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\assignment 5.AssemblyInfo.cs
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\assignment 5.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\refint\assignment 5.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\assignment 5.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\assignment 5.genruntimeconfig.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 5\assignment 5\obj\Debug\net6.0-windows\ref\assignment 5.dll
