@@ -1,0 +1,17 @@
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\bin\Debug\net6.0-windows\assignment 18.exe
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\bin\Debug\net6.0-windows\assignment 18.deps.json
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\bin\Debug\net6.0-windows\assignment 18.runtimeconfig.json
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\bin\Debug\net6.0-windows\assignment 18.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\bin\Debug\net6.0-windows\assignment 18.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\assignment 18.csproj.AssemblyReference.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\assignment_18.star.resources
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\assignment 18.csproj.GenerateResource.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\assignment 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\assignment 18.AssemblyInfoInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\assignment 18.AssemblyInfo.cs
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\assignment 18.csproj.CoreCompileInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\assignment 18.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\refint\assignment 18.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\assignment 18.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\assignment 18.genruntimeconfig.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 18\assignment 18\obj\Debug\net6.0-windows\ref\assignment 18.dll
