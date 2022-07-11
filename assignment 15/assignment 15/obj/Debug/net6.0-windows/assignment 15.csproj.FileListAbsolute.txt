@@ -1,0 +1,17 @@
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\bin\Debug\net6.0-windows\assignment 15.exe
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\bin\Debug\net6.0-windows\assignment 15.deps.json
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\bin\Debug\net6.0-windows\assignment 15.runtimeconfig.json
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\bin\Debug\net6.0-windows\assignment 15.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\bin\Debug\net6.0-windows\assignment 15.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\assignment 15.csproj.AssemblyReference.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\assignment 15.csproj.GenerateResource.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\assignment 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\assignment 15.AssemblyInfoInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\assignment 15.AssemblyInfo.cs
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\assignment 15.csproj.CoreCompileInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\assignment 15.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\refint\assignment 15.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\assignment 15.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\assignment 15.genruntimeconfig.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\ref\assignment 15.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 15\assignment 15\obj\Debug\net6.0-windows\assignment_15.egg.resources
