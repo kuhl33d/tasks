@@ -1,0 +1,17 @@
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\assignment 9.csproj.AssemblyReference.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\assignment 9.csproj.GenerateResource.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\assignment 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\assignment 9.AssemblyInfoInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\assignment 9.AssemblyInfo.cs
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\assignment 9.csproj.CoreCompileInputs.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\bin\Debug\net6.0-windows\assignment 9.exe
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\bin\Debug\net6.0-windows\assignment 9.deps.json
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\bin\Debug\net6.0-windows\assignment 9.runtimeconfig.json
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\bin\Debug\net6.0-windows\assignment 9.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\bin\Debug\net6.0-windows\assignment 9.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\assignment_9.Rect.resources
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\assignment 9.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\refint\assignment 9.dll
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\assignment 9.pdb
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\assignment 9.genruntimeconfig.cache
+C:\Users\kabde\Dropbox\My PC (LAPTOP-86ONCD9D)\Documents\CS232\assignment 9\assignment 9\obj\Debug\net6.0-windows\ref\assignment 9.dll
